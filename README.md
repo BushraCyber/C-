@@ -10,6 +10,3 @@
 - Networking: TCP/IP, Cisco basics
 - Operating Systems: Linux (Administration)
 
-## 📫 Connect with Me
-🌐 Portfolio: (add when ready)
-💼 LinkedIn: (add your profile link)
